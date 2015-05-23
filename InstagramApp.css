@@ -1,0 +1,16 @@
+body {
+	/* Background Image from 9Irwin4 & Fugitive colour*/
+	background-image: url("redflower.jpg");
+	text-align: center;
+	color:#171010;
+	font-family: Georgia;
+}
+
+.neutral {
+	background-color: #D30D07;
+	width: 40%;
+	margin: auto;
+	border: #171010 0.5em solid; 
+    margin-top:3%;
+    padding: 3%;
+}
