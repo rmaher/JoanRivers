@@ -1,9 +1,9 @@
 body {
 	/* Background Image from 9Irwin4 & Fugitive colour*/
-	background-image: url("redflower.jpg");
+	background-image: url("redflower.png");
 	text-align: center;
 	color:#171010;
-	font-family: Georgia;
+	font-family: "alternate-gothic-no-2-d";
 }
 
 .neutral {
@@ -13,4 +13,10 @@ body {
 	border: #171010 0.5em solid; 
     margin-top:3%;
     padding: 3%;
+}
+
+#image-display {
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
 }
